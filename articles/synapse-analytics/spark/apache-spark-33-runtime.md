@@ -38,6 +38,10 @@ Azure Synapse Analytics supports multiple runtimes for Apache Spark. This docume
 > 
 > * We will continue to support .NET for Apache Spark in all previous versions of the Azure Synapse Runtime according to [their lifecycle stages](runtime-for-apache-spark-lifecycle-and-supportability.md). However, we do not have plans to support .NET for Apache Spark in Azure Synapse Runtime for Apache Spark 3.3 and future versions. We recommend that users with existing workloads written in C# or F# migrate to Python or Scala. Users are advised to take note of this information and plan accordingly.
 
+## Release notes
+
+For up-to-date information, a detailed list of changes, and specific release notes for Spark runtimes, check and subscribe [Spark Runtimes Releases and Updates](https://github.com/microsoft/synapse-spark-runtime).
+
 ## Libraries
 The following sections present the libraries included in Azure Synapse Runtime for Apache Spark 3.3.
 
